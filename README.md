@@ -23,6 +23,8 @@ You can download the OpenTok PHP SDK from GitHub:
 
 ## Requirements
 
+The OpenTok Python SDK requires Python 2.2 or greater.
+
 You need an OpenTok API key and API secret, which you can obtain at <https://dashboard.tokbox.com>.
 
 # OpenTokSDK
