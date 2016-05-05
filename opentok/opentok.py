@@ -184,8 +184,8 @@ class OpenTok(object):
         Check the error message for details.
 
         You can also create a session using the OpenTok
-        `REST API <https://tokbox.com/opentok/api/#session_id_production>`_ or
-        `the OpenTok dashboard <https://dashboard.tokbox.com/projects>`_.
+        `REST API <https://tokbox.com/opentok/api/#session_id_production>`_ or by logging in to your
+        `OpenTok account <https://tokbox.com/account>`_.
 
         :param String media_mode: Determines whether the session will transmit streams using the
              OpenTok Media Router (MediaMode.routed) or not (MediaMode.relayed). By default,
